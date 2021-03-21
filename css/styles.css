@@ -263,6 +263,7 @@ img {
 .team-member-container {
   padding-top: 30px;
   padding-bottom: 30px;
+  background-color: var(--backgroung-white-color);
 }
 
 .team-member {
